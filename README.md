@@ -16,7 +16,10 @@ The goal for this analysis  was to utlize the tools PostgreSQL and pgAdmin to de
 
 - There are a total of 90,398 retiring employees of our total 300,024 - roughly 30 percent of our employees.
 
-- We can see that there are 2 managers who are retiring, because each department only contains 2 managers per department we need to be check if these two managers are working for the same department and if so make the necisarry changes so as to not leave a department without a manager.
+- We can see that there are 2 managers who are retiring, because some departments only contain 2 managers we need to check if these two managers are working for the same department and if so make the necisarry changes so as to not leave a department without a manager.
+
+- Another take away from this data is that we are losing 97 percent of our Senior Engineers!
+
 
 
 
