@@ -48,7 +48,7 @@ INTO mentorship_eligibilty
 FROM employees AS e
 JOIN dept_emp AS de ON e.emp_no = de.emp_no
 JOIN titles As ti ON e.emp_no = ti.emp_no
-WHERE e.birth_date BETWEEN '1965-01-01' AND '1965-12-31'
+WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31') 
+AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no;
-
 -- end of queries
