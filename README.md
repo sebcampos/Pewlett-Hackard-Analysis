@@ -23,7 +23,8 @@ The goal for this analysis  was to utilize the tools PostgreSQL and pgAdmin to d
 ## Summary
 - The number of retiring employees is 90,398
 - The number of eligible employees for mentorship is 1,549
- - We should also note that there are no manager titles available for the mentorship program and we are losing 20% of our managers. We might have trouble finding new managers.
+
+- We should also note that there are no manager titles available for the mentorship program and we are losing 20% of our managers. We might have trouble finding new managers.
  
 - We can also see below that the two managers retiring are only leaving one manager to their department to manage an enormous amount of people. We might want to hire new managers here as asp
  
@@ -34,16 +35,6 @@ The goal for this analysis  was to utilize the tools PostgreSQL and pgAdmin to d
 ![alt text](https://github.com/sebcampos/Pewlett-Hackard-Analysis/blob/master/resources/department_manager_2.png?raw=True)
  
  
- 
-- There are a total of 1,940 employees who are eligible for the mentorship, of these employees 357 that are also Senior Engineers. Because we are losing more than 90% of our senior engineers it would be reasonable to pursue these mentors to help us close the large loss of senior engineers
- 
- 
-## Summary
-- The summary addresses the two questions and contains two additional queries or tables that may provide more insight
- 
-- The number of retiring employees is 90,398
- 
-- the number of eligible employees for mentorship is 1,940
  
 
  
