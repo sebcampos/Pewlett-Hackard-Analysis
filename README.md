@@ -9,7 +9,7 @@ The goal for this analysis  was to utilize the tools PostgreSQL and pgAdmin to d
  
 ![alt text](https://github.com/sebcampos/Pewlett-Hackard-Analysis/blob/master/resources/number_of_retiring_employees_by_title.png?raw=True)
  
-### Percentage 
+### Percentage of Employees Retiring by Title
  
 ![alt text](https://github.com/sebcampos/Pewlett-Hackard-Analysis/blob/master/resources/percentage_retiring.png?raw=True)
  
@@ -17,13 +17,12 @@ The goal for this analysis  was to utilize the tools PostgreSQL and pgAdmin to d
  
 - We can see that there are 2 managers who are retiring. Some departments only contain 2 managers we need to check if these two managers are working for the same department and if so, make the necessary changes so as to not leave a department without a manager.
  
-- Another take away from this data is that we are losing 97 percent of our Senior Engineers!
  
 ### Employees Eligible for Mentorship Program
  
 ![alt text](https://github.com/sebcampos/Pewlett-Hackard-Analysis/blob/master/resources/employees_eligible_for_mentorship_program.png?raw=True)
  
-- There are a total of 1,940 employees who are eligible for the mentorship, of these employees 357 that are also Senior Engineers. Because we are losing more than 90% of our senior engineers it would be reasonable to pursue these mentors to help us minimize the large loss of senior engineers
+- There are a total of 1,549 employees who are eligible for the mentorship, of these employees 357 that are also Senior Engineers. Because we are losing more than 90% of our senior engineers it would be reasonable to pursue these mentors to help us minimize the large loss of senior engineers
  
  
 ## Summary
